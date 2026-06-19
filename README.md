@@ -43,7 +43,6 @@ const ashutosh = {
 │  🚀  Finalist   →  Smart India Hackathon 2025                   │
 │  ✅  Qualified  →  Tata CodeVita Season 12 — Round 1            │
 │  📦  Shipped    →  10+ full-stack apps in production            │
-│  🧑‍💼  Leading    →  Head of Technical Team, Yog Spiritual Club  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 

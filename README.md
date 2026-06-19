@@ -22,7 +22,7 @@
 
 ---
 
-## $ whoami
+## $ who am
 
 ```ts
 const ashutosh = {

@@ -13,10 +13,10 @@
 
 *Building things that scale · Breaking things that don't · Based in Indore, India 🇮🇳*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sh32ashutosh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh32ashutosh/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh32ashutosh@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sh32ashutosh)
 
 </div>
 
@@ -29,7 +29,6 @@ const ashutosh = {
   role        : "Full Stack Software Developer",
   university  : "Medi-Caps University, B.Tech CSE (2024–2028)",
   focus       : ["MERN Stack", "System Design", "Distributed Systems", "DSA"],
-  currentlyOn : "Building scalable SaaS products & crushing Striver's A2Z DSA sheet",
   funFact     : "I debug in production. (Just kidding. Mostly.)",
 };
 ```
@@ -115,12 +114,7 @@ const ashutosh = {
 
 ---
 
-## 📈 Currently
 
-- 🧩 **DSA** — Working through Striver's A2Z sheet (target: August 2026)
-- 🛍️ **Fashcycle** — SEO & performance optimization for India's fashion rental marketplace
-- 🐧 **Linux** — Daily driving Ubuntu as my dev environment
-- 📖 **Reading** — System Design Interview Vol. 2
 
 ---
 

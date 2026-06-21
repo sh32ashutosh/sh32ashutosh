@@ -154,7 +154,7 @@ bug_count: undefined (it's a feature)
 
 </div>
 
-> Powered by a GitHub Action — drop the included `snake.yml` into `.github/workflows/` and it animates your contribution graph automatically, every day.
+> 
 
 ---
 

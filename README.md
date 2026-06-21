@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=220&section=header&text=Ashutosh%20Sharma&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=230&section=header&text=Ashutosh%20Sharma&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Software%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+things+that+scale...;Breaking+things+that+don't+%F0%9F%98%85;MERN+Stack+%7C+System+Design+%7C+DSA;B.Tech+CSE+%40+Medi-Caps+University;Open+to+Internships+%26+Collabs+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=sudo+make+me+a+sandwich;Permission+denied...;Ah+well%2C+back+to+shipping+code+%F0%9F%9A%80;React+%7C+Node.js+%7C+System+Design;console.log(%22Hello%2C+World%22)%3B" alt="Typing SVG" />
 
 <br/>
 
@@ -17,35 +17,57 @@
 
 ---
 
-## `$` whoami
+<table>
+<tr>
+<td width="50%" valign="top">
 
-```ts
-const ashutosh = {
-  role        : "Full Stack Software Developer",
-  university  : "Medi-Caps University, B.Tech CSE (2024–2028)",
-  location    : "Indore, India 🇮🇳",
-  focus       : ["MERN Stack", "System Design", "Distributed Systems", "DSA"],
-  currentGrind: "Striver's A2Z Sheet — deadline: Aug 15 🔥",
-  funFact     : "I debug in production. (Just kidding. Mostly.)",
-} as const;
+```yaml
+$ neofetch --about-me
+
+name:      Ashutosh Sharma
+role:      Full Stack Software Developer
+school:    Medi-Caps University
+degree:    B.Tech, CSE (2024-2028)
+location:  Indore, India
+stack:     MERN + TypeScript
+weapon:    VS Code + black coffee
+bug_count: undefined (it's a feature)
 ```
+
+</td>
+<td width="50%" valign="top">
+
+```diff
++ Ships full-stack apps that scale
++ Optimizes queries before breakfast
++ Reads RFCs for fun (don't judge)
+- Doesn't believe in "it works on my machine"
+! Currently arguing with a race condition
+```
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Highlights
+## Highlights Reel
 
 <div align="center">
 
-| 🥇 | 🚀 | ✅ | 📦 |
+| Top 1500 | Finalist | Qualified | Shipped |
 |:---:|:---:|:---:|:---:|
-| **Top 1500** | **Finalist** | **Qualified** | **Shipped** |
 | Google The Big Code 2026 | Smart India Hackathon 2025 | Tata CodeVita S12 — R1 | 10+ full-stack apps |
 
 </div>
 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sh32ashutosh&theme=algolia&no-frame=true&row=1&column=6&margin-w=10" />
+</div>
+
 ---
 
-## ⚙️ Tech Stack
+## The Arsenal
 
 <div align="center">
 
@@ -55,38 +77,21 @@ const ashutosh = {
 
 <div align="center">
 
-`WebRTC` • `JWT` • `RBAC` • `Microservices` • `CI/CD` • `Framer Motion` • `PWA`
+`WebRTC` • `JWT` • `RBAC` • `Microservices` • `CI/CD` • `Framer Motion` • `PWA` • `OOP` • `OS` • `DBMS`
 
 </div>
 
 ---
 
-## 🌱 Currently Building
+## Featured Builds
 
 <details open>
-<summary><b>👗 Fashcycle — Fashion Rental Marketplace</b></summary>
-<br/>
-
-A peer-to-peer fashion rental platform starting in **Indore**, with planned expansion across **Madhya Pradesh & Rajasthan**.
-
-`React 19` `Vite` `Vercel`
-
-- 🔍 Just wrapped a full SEO implementation sprint
-- 🛍️ Building toward a zero/low-cost, community-driven rental model
-
-</details>
-
----
-
-## 🚀 Featured Projects
-
-<details open>
-<summary><b>📡 Adaptive Low-Bandwidth Learning Platform</b></summary>
+<summary><b>📡 Adaptive Low-Bandwidth Learning Platform</b> — real-time classroom, even on bad Wi-Fi</summary>
 <br/>
 
 `Next.js` `Node.js` `WebRTC` `Socket.IO` `MongoDB` `Redis` `TypeScript`
 
-> Real-time classroom platform engineered for low-bandwidth and unstable network environments.
+> Built so a classroom doesn't grind to a halt the moment someone's signal drops to one bar.
 
 - Dynamically adapts media quality based on live latency, packet loss, and network conditions via WebRTC
 - Multilingual messaging, breakout rooms, attendance tracking, and session scheduling
@@ -96,12 +101,12 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 </details>
 
 <details>
-<summary><b>🤖 Distributed AI-Powered Code Review Platform</b></summary>
+<summary><b>🤖 Distributed AI-Powered Code Review Platform</b> — your PRs, reviewed by an AI senior engineer</summary>
 <br/>
 
 `Next.js` `Node.js` `OpenAI API` `PostgreSQL` `Redis` `Docker` `WebSocket`
 
-> SaaS platform that reviews your pull requests like a senior engineer — at scale.
+> SaaS platform that reviews your pull requests like a senior engineer — minus the passive-aggressive comments.
 
 - LLM-powered pipelines detect security vulnerabilities, code smells, and maintainability gaps
 - Real-time notifications and collaboration via WebSockets + async event processing
@@ -111,12 +116,12 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 </details>
 
 <details>
-<summary><b>🎓 Club Attendance Management System</b></summary>
+<summary><b>🎓 Club Attendance Management System</b> — spreadsheets, retired</summary>
 <br/>
 
 `React.js` `Node.js` `Express.js` `MongoDB` `JWT` `OCR`
 
-> Centralized platform for university clubs — replacing spreadsheets and headcounts.
+> Centralized platform for university clubs, because nobody should manually count heads in 2026.
 
 - OCR-based automated attendance verification — zero manual data entry
 - Analytics dashboards with participation insights, export tools, and reporting
@@ -126,7 +131,7 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 
 ---
 
-## 📊 GitHub Stats
+## By the Numbers
 
 <div align="center">
 
@@ -141,7 +146,7 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 
 ---
 
-## 🐍 Contribution Snake
+## The Snake That Eats My Commits
 
 <div align="center">
 
@@ -149,7 +154,24 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 
 </div>
 
-> 💡 The snake animates your contribution graph automatically once you add the GitHub Action below to this repo (`.github/workflows/snake.yml`).
+> Powered by a GitHub Action — drop the included `snake.yml` into `.github/workflows/` and it animates your contribution graph automatically, every day.
+
+---
+
+<details>
+<summary>🥚 Found a secret. Click to see it.</summary>
+<br/>
+
+You scrolled this far. Respect. Here's the actual source of most of my bugs:
+
+```js
+function deploy() {
+  // TODO: fix this before it breaks in prod
+  return "it'll probably be fine";
+}
+```
+
+</details>
 
 ---
 
@@ -163,6 +185,6 @@ A peer-to-peer fashion rental platform starting in **Indore**, with planned expa
 **Open to internships, collabs, and interesting problems.**
 **Let's build something →** [sh32ashutosh@gmail.com](mailto:sh32ashutosh@gmail.com)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer" width="100%"/>
 
 </div>

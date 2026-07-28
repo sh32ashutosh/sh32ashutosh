@@ -6,6 +6,15 @@
 
 <br/>
 
+<!-- BINARY PHOTO PLACEHOLDER
+     Replace BINARY_PHOTO_URL below with the raw GitHub URL of your generated
+     binary-art portrait once it's uploaded to your repo, e.g.:
+     https://raw.githubusercontent.com/sh32ashutosh/sh32ashutosh/main/assets/binary-portrait.png
+-->
+<img src="BINARY_PHOTO_URL" width="260" alt="Ashutosh Sharma - binary portrait" />
+
+<br/><br/>
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sh32ashutosh.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sh32ashutosh/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sh32ashutosh@gmail.com)
@@ -55,9 +64,9 @@ bug_count: undefined (it's a feature)
 
 <div align="center">
 
-| Top 1500 | Finalist | Qualified | Shipped |
-|:---:|:---:|:---:|:---:|
-| Google The Big Code 2026 | Smart India Hackathon 2025 | Tata CodeVita S12 — R1 | 10+ full-stack apps |
+| 3★ Coder | Semifinalist | Finalist | Qualified | Shipped |
+|:---:|:---:|:---:|:---:|:---:|
+| CodeChef | Google The Big Code 2026 (Top 1,500 globally) | Smart India Hackathon 2025 | Tata CodeVita S12 — R1 | 10+ full-stack apps |
 
 </div>
 

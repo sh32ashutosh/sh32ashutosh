@@ -6,8 +6,8 @@
 
 <br/>
 
-<!-- Portrait lives at assets/binary-portrait.png in this repo -->
-<img src="assets/binary-portrait.png" width="260" alt="Ashutosh Sharma - binary portrait" />
+<!-- Portrait lives at assets/binary-portrait-typing.gif in this repo -->
+<img src="assets/binary-portrait-typing.gif" width="260" alt="Ashutosh Sharma - binary portrait, typed out live" />
 
 <br/><br/>
 

@@ -6,12 +6,8 @@
 
 <br/>
 
-<!-- BINARY PHOTO PLACEHOLDER
-     Replace BINARY_PHOTO_URL below with the raw GitHub URL of your generated
-     binary-art portrait once it's uploaded to your repo, e.g.:
-     https://raw.githubusercontent.com/sh32ashutosh/sh32ashutosh/main/assets/binary-portrait.png
--->
-<img src="BINARY_PHOTO_URL" width="260" alt="Ashutosh Sharma - binary portrait" />
+<!-- Portrait lives at assets/binary-portrait.png in this repo -->
+<img src="assets/binary-portrait.png" width="260" alt="Ashutosh Sharma - binary portrait" />
 
 <br/><br/>
 

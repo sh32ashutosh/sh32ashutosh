@@ -1,0 +1,19 @@
+{
+  "builds": [
+    {
+      "src": "api/orchestrator.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/redirect",
+      "dest": "https://open.spotify.com/user/31cpgfo6hu4ztq7lc45ke2qbr2ee",
+      "status": 302
+    },
+    {
+      "src": "/(.*)",
+      "dest": "api/orchestrator.py"
+    }
+  ]
+}

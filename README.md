@@ -49,7 +49,7 @@ B.Tech CSE student at Medi-Caps University (2024–2028), based in Indore, India
   - ⭐ 3★ CodeChef
   - 🥇 Top 1,500 globally in Google "The Big Code" 2026
   - 🇮🇳 Smart India Hackathon 2025 finalist
-  - 💻 Tata CodeVita S12 Round 1 qualifier
+  - 💻 Tata CodeVita S13 Round 1 qualifier
 - ⚡ **Fun fact →**
 
   > *"I push at midnight, heart pounding like a loop,*

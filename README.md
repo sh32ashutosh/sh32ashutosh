@@ -65,7 +65,7 @@ I enjoy turning complex ideas into practical software—from polished React inte
 
 | Highlight | Details |
 |:---|:---|
-| ⭐ CodeChef | 3★ rating |
+| ⭐ CodeChef | 4★ rating |
 | 🥇 Google “The Big Code” 2026 | Top 1,500 globally |
 | 🇮🇳 Smart India Hackathon 2025 | Finalist |
 | 💻 Tata CodeVita Season 13 | Round 1 qualifier |

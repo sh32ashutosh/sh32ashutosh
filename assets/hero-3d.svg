@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 460" role="img" aria-label="Ashutosh Sharma, Full Stack Developer and AI Agent Builder, futuristic isometric 3D developer workspace">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#080c1d"/><stop offset=".53" stop-color="#10152d"/><stop offset="1" stop-color="#090a1e"/></linearGradient>
+ <linearGradient id="name" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f6f9ff"/><stop offset=".55" stop-color="#c5d9ff"/><stop offset="1" stop-color="#80ecff"/></linearGradient>
+ <linearGradient id="pane" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#202c4b"/><stop offset="1" stop-color="#0c142b"/></linearGradient>
+ <linearGradient id="edge" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#3eeaff" stop-opacity=".88"/><stop offset="1" stop-color="#6a5aff" stop-opacity=".14"/></linearGradient>
+ <linearGradient id="cubeL" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#16b9ea"/><stop offset="1" stop-color="#3c65e6"/></linearGradient>
+ <linearGradient id="cubeR" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#6957e9"/><stop offset="1" stop-color="#25196c"/></linearGradient>
+ <radialGradient id="haze"><stop stop-color="#735cff" stop-opacity=".35"/><stop offset="1" stop-color="#735cff" stop-opacity="0"/></radialGradient>
+ <radialGradient id="haze2"><stop stop-color="#19d9fc" stop-opacity=".23"/><stop offset="1" stop-color="#19d9fc" stop-opacity="0"/></radialGradient>
+ <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#a9b9fa" opacity=".15"/></pattern>
+ <filter id="glow" x="-80%" y="-80%" width="260%" height="260%"><feGaussianBlur stdDeviation="12"/></filter>
+ <filter id="shadow" x="-40%" y="-40%" width="190%" height="200%"><feDropShadow dx="0" dy="22" stdDeviation="21" flood-color="#000218" flood-opacity=".8"/></filter>
+ <clipPath id="screen"><rect x="0" y="0" width="368" height="240" rx="18"/></clipPath>
+ <style>
+ .float{animation:levitate 6s ease-in-out infinite}.float2{animation:levitate 8s ease-in-out infinite reverse}.pulse{animation:blink 3s ease-in-out infinite}.orbit{animation:spin 32s linear infinite;transform-origin:1009px 240px}
+ @keyframes levitate{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}
+ @keyframes blink{0%,100%{opacity:.5}50%{opacity:1}}
+ @keyframes spin{to{transform:rotate(360deg)}}
+ @media (prefers-reduced-motion:reduce){.float,.float2,.pulse,.orbit{animation:none}}
+ </style>
+</defs>
+<rect width="1280" height="460" rx="24" fill="url(#bg)"/>
+<rect width="1280" height="460" rx="24" fill="url(#dots)"/>
+<ellipse cx="963" cy="232" rx="420" ry="308" fill="url(#haze)"/>
+<ellipse cx="1172" cy="150" rx="330" ry="290" fill="url(#haze2)"/>
+<path d="M0 365 Q330 320 595 379 T1280 360" stroke="#2f4e84" stroke-width="1" opacity=".35" fill="none"/>
+<g stroke="#4083bd" stroke-width="1" opacity=".17">
+ <path d="M0 416 L640 270 L1280 416 M75 460 L685 293 M193 460 L731 318 M313 460 L778 344 M435 460 L825 370 M557 460 L871 396 M680 460 L919 421 M800 460 L965 447" fill="none"/>
+ <path d="M90 393 L1210 393 M190 365 L1160 365 M285 343 L1100 343 M391 319 L1030 319" fill="none"/>
+</g>
+<rect x="28" y="28" width="1224" height="404" rx="19" stroke="#6687b3" stroke-opacity=".20" fill="none"/>
+<circle cx="81" cy="74" r="6" fill="#35e1ce"/><circle cx="81" cy="74" r="12" fill="none" stroke="#35e1ce" stroke-opacity=".35"/>
+<text x="100" y="79" font-family="Consolas,Monaco,monospace" font-size="15" fill="#9ac9da" letter-spacing="3">DEV // PROFILE</text>
+<rect x="68" y="116" width="89" height="4" rx="2" fill="#55e6ff"/>
+<text x="66" y="188" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="0.5" fill="url(#name)">ASHUTOSH</text>
+<text x="66" y="262" font-family="Arial,Helvetica,sans-serif" font-size="70" font-weight="800" letter-spacing="0.5" fill="url(#name)">SHARMA<tspan fill="#51dfea">.</tspan></text>
+<text x="71" y="313" font-family="Consolas,Monaco,monospace" font-size="20" fill="#9bc7f6">FULL STACK ENGINEER  <tspan fill="#62eedf">/</tspan>  AI AGENTS</text>
+<path d="M71 341 H598" stroke="#587496" opacity=".4"/>
+<text x="72" y="372" font-family="Arial,Helvetica,sans-serif" font-size="15" fill="#aabbdc">Building software that thinks, ships &amp; scales.</text>
+<g font-family="Consolas,Monaco,monospace" font-size="12" fill="#b3c7df">
+ <rect x="70" y="394" width="135" height="27" rx="13" fill="#172a3f" stroke="#306c8d"/><text x="85" y="412">REACT + FASTAPI</text>
+ <rect x="214" y="394" width="105" height="27" rx="13" fill="#241e42" stroke="#6158a3"/><text x="230" y="412">INDORE, IN</text>
+ <rect x="329" y="394" width="106" height="27" rx="13" fill="#17293f" stroke="#306c8d"/><text x="346" y="412">OPEN TO BUILD</text>
+</g>
+<g class="orbit" fill="none" stroke="#6295fa" stroke-opacity=".22" stroke-dasharray="5 11"><ellipse cx="1009" cy="240" rx="222" ry="138" transform="rotate(-23 1009 240)"/></g>
+<!-- Rear floating slab -->
+<g class="float2"><path d="M802 98 L1111 58 L1183 117 L871 162 Z" fill="#6758c9" opacity=".25"/><path d="M801 98 L871 162 L871 181 L801 117 Z" fill="#3e286c" opacity=".42"/></g>
+<!-- Main isometric code workstation -->
+<g class="float" filter="url(#shadow)">
+ <g transform="translate(775 92) skewY(-8)">
+  <rect x="14" y="16" width="372" height="244" rx="18" fill="#000616" opacity=".92"/>
+  <rect x="7" y="7" width="372" height="244" rx="18" fill="#375bba"/>
+  <rect width="368" height="240" rx="18" fill="url(#pane)" stroke="#7db2f6" stroke-opacity=".7" stroke-width="1.4"/>
+  <g clip-path="url(#screen)">
+   <rect width="368" height="39" fill="#111b31"/>
+   <circle cx="22" cy="20" r="5" fill="#f07189"/><circle cx="39" cy="20" r="5" fill="#ffd26b"/><circle cx="56" cy="20" r="5" fill="#68e2bc"/>
+   <text x="96" y="24" font-family="Consolas,monospace" font-size="12" fill="#a2bfe3">agent.ts  —  workspace</text>
+   <line x1="49" y1="40" x2="49" y2="240" stroke="#415471" opacity=".55"/>
+   <g font-family="Consolas,Monaco,monospace" font-size="13">
+    <text x="16" y="69" fill="#657c9c">01</text><text x="65" y="69" fill="#c7a7fd">const</text><text x="115" y="69" fill="#cde8ff"> developer = {</text>
+    <text x="16" y="97" fill="#657c9c">02</text><text x="81" y="97" fill="#8bdfff">name:</text><text x="144" y="97" fill="#88e0b6"> 'Ashutosh',</text>
+    <text x="16" y="125" fill="#657c9c">03</text><text x="81" y="125" fill="#8bdfff">focus:</text><text x="152" y="125" fill="#88e0b6"> 'AI agents',</text>
+    <text x="16" y="153" fill="#657c9c">04</text><text x="81" y="153" fill="#8bdfff">build:</text><text x="152" y="153" fill="#88e0b6"> 'the future'</text>
+    <text x="16" y="181" fill="#657c9c">05</text><text x="65" y="181" fill="#cde8ff">};</text>
+    <text x="16" y="210" fill="#657c9c">06</text><text x="65" y="210" fill="#c7a7fd">await</text><text x="117" y="210" fill="#e8ecff"> developer.ship();</text>
+   </g>
+  </g>
+ </g>
+</g>
+<!-- Isometric floating accent cubes -->
+<g class="float2" stroke-linejoin="round" stroke-width="1.4">
+ <path d="M1113 275 L1174 253 L1235 279 L1174 303 Z" fill="#6ba8ff" stroke="#87e9fe"/>
+ <path d="M1113 275 L1174 303 L1174 372 L1113 344 Z" fill="url(#cubeL)" stroke="#5ad7ff"/>
+ <path d="M1174 303 L1235 279 L1235 348 L1174 372 Z" fill="url(#cubeR)" stroke="#706dff"/>
+ <path d="M1143 289 L1174 303 L1204 290" stroke="#d4ffff" stroke-opacity=".45" fill="none"/>
+</g>
+<g class="pulse"><circle cx="1216" cy="105" r="3.5" fill="#6bebf9"/><circle cx="1216" cy="105" r="11" fill="none" stroke="#6bebf9" opacity=".32"/><path d="M1216 78 V93 M1216 117 V131 M1189 105 H1204 M1228 105 H1243" stroke="#6bebf9" stroke-opacity=".45"/></g>
+<g fill="#7ff1fd" opacity=".6"><circle cx="717" cy="118" r="2"/><circle cx="1225" cy="402" r="2"/><circle cx="662" cy="270" r="2"/></g>
+</svg>

@@ -1,111 +1,82 @@
-<!-- GitHub profile README | 3D edition | github.com/sh32ashutosh -->
+
+
+
+
+
+
+<!-- GitHub profile README for github.com/sh32ashutosh --><div align="center"><img width="100%" alt="Ashutosh Sharma — Full-Stack Developer and AI Agents Builder" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1026,45:4338CA,100:06B6D4&text=ASHUTOSH%20SHARMA&fontColor=FFFFFF&fontSize=52&fontAlignY=36&desc=Full-Stack%20Developer%20%7C%20AI%20Agents%20Builder&descSize=19&descAlignY=58&animation=fadeIn" />
+Building intelligent developer tools and thoughtful web experiences.
+B.Tech Computer Science · Medi-Caps University (2024–2028) · Indore, India
+
+<a href="https://sh32ashutosh.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sh32ashutosh"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:sh32ashutosh@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Say%20Hello-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
+👋 About me
+I'm Ashutosh, a computer science student focused on full-stack engineering and AI-powered developer tools. I enjoy connecting clean user interfaces with practical backend systems and exploring how AI agents can improve software workflows.
+
+🔭 Currently building: an autonomous issue-to-PR AI coding agent with React/Vite, FastAPI, and SQLite.
+🧠 Interested in: LLM tooling, AI agents, system design, and problem-solving.
+🎬 Also exploring: AI-generated cinematic video projects.
+🤝 Open to: collaborating on interesting full-stack and AI tooling projects.
+🚀 What I'm working on
+<table> <tr> <td width="65%" valign="top">
+🤖 Issue-to-PR AI Coding Agent
+An in-progress developer tool exploring an AI-assisted workflow from understanding a repository issue to preparing a proposed pull request.
+
+Stack: React · Vite · FastAPI · SQLite
+
+Focus areas: agent workflows, code understanding, reviewability, and developer experience.
+
+</td> <td width="35%" valign="top">
+🎥 AI Cinematic Experiments
+Experimenting with AI-assisted cinematic video creation, visual storytelling, and creative tooling.
+
+Focus areas: generative media and creative workflows.
+
+</td> </tr> </table><!-- Add links to these projects once their repositories or demos are public. -->
+🛠️ Tech stack
+Languages
+
+<img alt="C++, Python, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" />
+Frontend
+
+<img alt="React, Next.js, Redux, Tailwind CSS" src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" />
+Backend and APIs
+
+<img alt="Node.js, Express, FastAPI, GraphQL" src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" />
+Databases
+
+<img alt="MongoDB, PostgreSQL, Redis, SQLite" src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite&theme=dark" />
+Tools and platforms
+
+<img alt="Git, GitHub, Docker, AWS, Linux" src="https://skillicons.dev/icons?i=git,github,docker,aws,linux&theme=dark" />
+<sub>Technologies I've worked with or explored; not a claim of equal proficiency in every tool.</sub>
+
+🏆 Highlights
+⭐ 3★ on CodeChef
+🥇 Top 1,500 globally — Google “The Big Code” 2026
+🇮🇳 Finalist — Smart India Hackathon 2025
+💻 Round 1 qualifier — Tata CodeVita Season 13
+📊 GitHub activity
+<div align="center"><img height="165" alt="GitHub contribution streak for sh32ashutosh" src="https://streak-stats.demolab.com?user=sh32ashutosh&theme=tokyonight&hide_border=true&background=00000000" /> <img height="165" alt="GitHub summary statistics for sh32ashutosh" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh32ashutosh&theme=tokyonight" /></div>
+🧩 Coding and community
 <div align="center">
+<a href="https://leetcode.com/u/pobedil/"><img height="205" alt="LeetCode activity for pobedil" src="https://leetcard.jacoblin.cool/pobedil?ext=heatmap&theme=dark" /></a>
 
-<img src="./assets/hero-3d.svg" alt="3D developer workspace banner: Ashutosh Sharma — Full Stack Engineer and AI Agents Builder" width="100%" />
+LeetCode · Code360 · Holopin badges
 
-<br />
+</div>
+<div align="center">
+Have a project in mind or want to collaborate?
 
-<a href="https://sh32ashutosh.netlify.app"><img src="https://img.shields.io/badge/PORTFOLIO-0B1224?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A2947" alt="Portfolio" /></a>
-<a href="https://linkedin.com/in/sh32ashutosh"><img src="https://img.shields.io/badge/LINKEDIN-0B1224?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A2947" alt="LinkedIn" /></a>
-<a href="mailto:sh32ashutosh@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0B1224?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A2947" alt="Email" /></a>
-<a href="https://leetcode.com/u/pobedil/"><img src="https://img.shields.io/badge/LEETCODE-0B1224?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=1A2947" alt="LeetCode" /></a>
+Explore my portfolio · Connect on LinkedIn · Email me
 
-<br /><br />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=6BEAF5&center=true&vCenter=true&repeat=true&width=690&lines=Full-Stack+Development+%E2%9A%A1+AI+Agents;React+%2B+TypeScript+%2B+FastAPI;Building+developer+tools+that+matter;Always+curious.+Always+shipping." alt="Animated introduction" />
+<sub>Made with curiosity, code, and a lot of iteration.</sub>
 
 </div>
 
-## `> whoami`
 
-```yaml
-name: Ashutosh Sharma
-education: B.Tech Computer Science · Medi-Caps University (2024–2028)
-location: Indore, India
-focus:
-  - Full-stack engineering
-  - AI agents and LLM tooling
-  - Developer experience and system design
-currently_building: "An issue-to-PR AI coding agent"
-```
 
-I enjoy turning complex ideas into practical software—from polished React interfaces to backend systems and AI-assisted workflows. I'm currently exploring how autonomous coding agents can help developers understand issues, propose changes, and review the resulting code.
 
-## `> featured_work`
-
-<div align="center">
-
-<img src="./assets/projects-3d.svg" width="100%" alt="Isometric 3D project cards for an AI coding agent and AI cinematic experiments" />
-
-</div>
-
-**01 / Issue-to-PR AI coding agent** — An in-progress project exploring repository issue understanding, AI-assisted code changes, and preparation of reviewable pull requests. Built with **React/Vite, FastAPI, and SQLite**.
-
-**02 / AI cinematic experiments** — Exploring AI-generated video, visual storytelling, and creative production tooling.
-
-<!-- Add real public repository/demo links here once they are available. Avoid linking to non-existent projects. -->
-
-## `> toolchain`
-
-<div align="center">
-
-| Languages | Frontend | Backend & APIs |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cpp,python,js,ts&theme=dark" alt="C++, Python, JavaScript, TypeScript" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&theme=dark" alt="React, Next.js, Redux, Tailwind" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql&theme=dark" alt="Node.js, Express, FastAPI, GraphQL" /> |
-
-| Data & storage | Tools & platforms |
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,sqlite&theme=dark" alt="MongoDB, PostgreSQL, Redis, SQLite" /> | <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux&theme=dark" alt="Git, GitHub, Docker, AWS, Linux" /> |
-
-</div>
-
-<sub>Technologies used or explored; not an indication of equal expertise in all of them.</sub>
-
-## `> milestones`
-
-| Highlight | Details |
-|:---|:---|
-| ⭐ CodeChef | 4★ rating |
-| 🥇 Google “The Big Code” 2026 | Top 1,500 globally |
-| 🇮🇳 Smart India Hackathon 2025 | Finalist |
-| 💻 Tata CodeVita Season 13 | Round 1 qualifier |
-
-## `> git_contributions --render=3d`
-
-<div align="center">
-
-<!-- Generated by .github/workflows/profile-3d.yml. Run it once from GitHub Actions after upload. -->
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Three-dimensional isometric GitHub contribution graph" />
-
-<sub>3D contribution skyline — generated automatically from real GitHub activity.</sub>
-
-<br /><br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sh32ashutosh&theme=tokyonight" height="160" alt="GitHub summary stats" />
-<img src="https://streak-stats.demolab.com?user=sh32ashutosh&theme=tokyonight&hide_border=true&background=00000000" height="160" alt="GitHub contribution streak" />
-
-</div>
-
-## `> beyond_github`
-
-<div align="center">
-
-<a href="https://leetcode.com/u/pobedil/"><img src="https://leetcard.jacoblin.cool/pobedil?theme=dark&ext=heatmap" alt="LeetCode statistics" height="210" /></a>
-
-[Code360](https://www.naukri.com/code360/profile/Ashutoshsharma) · [Holopin](https://holopin.io/@sh32ashutosh) · [Portfolio](https://sh32ashutosh.netlify.app)
-
-</div>
-
----
-
-<div align="center">
-
-### `> let's_build_something()`
-
-Open to thoughtful collaborations on full-stack software, developer tools, and AI agent workflows.
-
-**[Portfolio](https://sh32ashutosh.netlify.app)** · **[LinkedIn](https://linkedin.com/in/sh32ashutosh)** · **[Email](mailto:sh32ashutosh@gmail.com)**
-
-<sub>Designed with code, curiosity &amp; a little isometric magic. © 2026</sub>
-
-</div>

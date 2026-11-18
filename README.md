@@ -55,7 +55,7 @@ Tools and platforms
 <sub>Technologies I've worked with or explored; not a claim of equal proficiency in every tool.</sub>
 
 🏆 Highlights
-⭐ 3★ on CodeChef
+⭐ 4★ on CodeChef
 🥇 Top 1,500 globally — Google “The Big Code” 2026
 🇮🇳 Finalist — Smart India Hackathon 2025
 💻 Round 1 qualifier — Tata CodeVita Season 13
